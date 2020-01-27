@@ -1,0 +1,15 @@
+---
+title: "Partner.Rmd"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Partner: Stephanie Femrite
+username: sunshinerae22
+
+I had no problems knittig it 
+Last commit: e10012532af8d1f67cefbebbb1d389b874be81f ; she just made one to submit the homework 
+I had a lot of difficulty with the errors I encountered, especially when the code needed to be changed to match better to be uploaded. 
