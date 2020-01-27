@@ -1,0 +1,23 @@
+---
+title: "sunshinerae22"
+author: "Stephanie Femrite"
+date: "1/21/2020"
+output:
+
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Write a paragraph (<100 words) describing a job that you think is related to data science. Write your paragraph in R Markdown in a nice format to read. Include at least 
+    a. a link 
+    b. an image
+    c. an italized and a bolded word.
+  
+ I think that *crime labs* and/or __law enforcement__ probably have **_data science_** jobs. If not, they should. I have always believed that things like abductions can be prevented with enough data. Here is a link that talks about that: <https://www.discoverdatascience.org/industries/law-enforcement/> . ![](https://pmctvline2.files.wordpress.com/2017/10/pauley-perrette-ncis-leaving.jpg?w=620)
+
+```{r version}
+version
+```
